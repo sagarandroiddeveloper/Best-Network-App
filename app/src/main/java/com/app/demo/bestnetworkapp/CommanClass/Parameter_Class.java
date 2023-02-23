@@ -9,7 +9,7 @@ public class Parameter_Class {
 
     public static boolean server_Start = false;
 
-    public static ArrayList<CountryList> countryLists =  new ArrayList<>();
+    public static List<CountryList> countryLists =  new ArrayList<>();
     public static Boolean Server_random= false;
     public static Boolean Server_Show= true;
     public static Boolean Server_Direct_Connect= true;
