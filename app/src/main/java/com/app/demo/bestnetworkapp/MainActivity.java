@@ -30,8 +30,8 @@ public class MainActivity extends AppCompatActivity {
     public static void Toast_Sp(Activity context, OnConnect onConnect_new) {
         contexts = context;
         onConnect = onConnect_new;
-        Toast.makeText(context, "Welcome To Our Apps", Toast.LENGTH_SHORT).show();
-        onConnect.onconnect("OK");
+        Toast.makeText(context, "Welcome To Our Apps, Please wait a moment!", Toast.LENGTH_SHORT).show();
+        onConnect.onconnect("GO");
     }
 
 
