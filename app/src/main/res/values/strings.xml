@@ -1,3 +1,4 @@
 <resources>
     <string name="app_namess">Best Network App</string>
+    <string name="disconnected">disconnected</string>
 </resources>
